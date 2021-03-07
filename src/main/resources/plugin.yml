@@ -1,0 +1,5 @@
+main: fr.blueberry.studio.hermes.plugins.discordSentry.DiscordSentry
+name: DiscordSentry
+version: 1.0
+author: Grimille
+description: Trace les activités du Discord.
